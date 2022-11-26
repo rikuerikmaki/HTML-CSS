@@ -1,0 +1,42 @@
+body { color: blue;}
+p {
+    color: darkblue;
+    background-color: lightblue;
+}
+body {
+    font-family: "Times New Roman", serif;
+  }
+h1, form {
+    color: red;
+}
+#joo {
+    color: green;
+    font-size: 2rem;
+}
+.el {
+    color: purple;
+    font-size: 20px;
+}
+#colortest {
+    color: #722F37;
+    font-family: "Permanent Marker", cursive;
+}
+#doesItDiffer {
+    color: rgb(100, 100, 100);
+    font-family: "Arial", sans-serif;
+}
+header {
+    background-color: lightblue;
+  }
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+.margpad {
+    padding: 20px;
+    background-color: lightblue;
+    margin: 0.25rem;
+    border-radius: 15px
+}
