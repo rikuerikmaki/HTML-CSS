@@ -1,5 +1,4 @@
-# deploy-demo-WSD
-WSD test
+# HTML & CSS testing
 
 
-A testing environment for a web development course. 
+A testing environment for HTML and CSS files.
